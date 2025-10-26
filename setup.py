@@ -9,7 +9,7 @@ else:
     long_description = "Personal utility library for code analysis, vulnerability detection, and data science tasks."
 
 setup(
-    name="matvey_toolbox",
+    name="ml_tools",
     version="0.1.0",
     author="Tizhin Matvey",
     author_email="matveytizhin@gmail.com",
