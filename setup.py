@@ -11,7 +11,7 @@ setup(
     description="Personal utility library for code analysis, vulnerability detection, and data science tasks",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/matveytizhin/my_ml_tools_box", 
+    url="https://github.com/matveytizhin/my_ml_tools_box/", 
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
