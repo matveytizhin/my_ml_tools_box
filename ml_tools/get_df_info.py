@@ -11,9 +11,8 @@ def format_value(x, max_len=20):
     else:
         return str(x)
 
-def get_df_info_optimized(df, trh=0.1):
-    """get_df_info_optimized(df, trh=0.1)
-    
+def get_df_info(df, trh=0.1):
+    """
     Generates a summary DataFrame with detailed information about each column
     of the input DataFrame.
 
